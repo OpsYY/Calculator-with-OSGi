@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: UI
+Bundle-SymbolicName: org.example.ui
+Bundle-Version: 1.0.0
+Bundle-Activator: org.example.ui.Activator
+Import-Package: org.osgi.framework,org.example.numbers,javax.swing,java.awt
+Export-Package: org.example.ui

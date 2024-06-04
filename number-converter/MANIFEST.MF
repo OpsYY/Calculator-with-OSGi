@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: NumberConverter
+Bundle-SymbolicName: org.example.numbers
+Bundle-Version: 1.0.0
+Bundle-Activator: org.example.numbers.Activator
+Import-Package: org.osgi.framework
+Export-Package: org.example.numbers
