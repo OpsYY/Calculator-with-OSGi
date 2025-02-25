@@ -11,7 +11,7 @@ boolean değeri olan "locale" true olduğu durumlarda Türkçe, false olduğu du
 
 Bundle yükleme ve çalıştırma için Apache Felix kullanılmıştır.
 
-Ödevde belirtildiği gibi yazıları sayıya ve sayıları yazıya çeviren, toplama çıkarma işlemlerini yapan "number-converter" servisi bulunmaktadır. Bu methodlar ise "UI" içerisinde kullanılmaktadır.
+Yazıları sayıya ve sayıları yazıya çeviren, toplama çıkarma işlemlerini yapan "number-converter" servisi bulunmaktadır. Bu methodlar ise "UI" içerisinde kullanılmaktadır.
 
 "Justfile.txt" içerisinde bulunan sınıflandırılmış CMD komutları şunlardır.
 download_felix - Apache felix indirmek için kullanılmaktadır.
